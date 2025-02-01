@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efarias11&label=Profile%20views&color=0e75b6&style=flat" alt="efarias11" /> </p>
 
-- 🔭 I’m currently working on **Using PyTorch for facial recognition**
+- 🔭 I’m currently working on **Reviewing deepseeks github repository**
 
 - 🌱 I’m currently learning **How to build Neural Networks from scratch**
 
