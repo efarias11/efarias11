@@ -11,7 +11,7 @@ I am lighthearted and love every opportunity to learn. Keep your heads down and 
 
 - 🔭 I’m currently building a **modern restaurant website interface**
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 🤩 I have a strong interest in **Machine Learning**
 
