@@ -13,9 +13,9 @@ I am lighthearted and love every opportunity to learn. Keep your heads down and 
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 🤩 I have a strong interest in Machine Learning
+- 🤩 I have a strong interest in **Machine Learning**
 
-- 🔧 My main tech stack is Python, Pandas, and Numpy
+- 🔧 My main tech stack is **Python, Pandas, and Numpy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/efarias11?tab=repositories](https://github.com/efarias11?tab=repositories)
 
